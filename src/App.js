@@ -9,7 +9,7 @@ const App = () => {
   const [tasks, setTasks] = useState([
     {
       id: 1,
-      text: "Doctor R/V",
+      text: "Hospital R/V",
       day: "Feb 5th at 2.30pm",
       reminder: true,
     },
